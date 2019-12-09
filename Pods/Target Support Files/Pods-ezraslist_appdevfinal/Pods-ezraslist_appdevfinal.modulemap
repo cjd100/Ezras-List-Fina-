@@ -1,0 +1,6 @@
+framework module Pods_ezraslist_appdevfinal {
+  umbrella header "Pods-ezraslist_appdevfinal-umbrella.h"
+
+  export *
+  module * { export * }
+}
