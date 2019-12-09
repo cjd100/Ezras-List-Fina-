@@ -1,0 +1,6 @@
+version: '3'
+services:
+  craigslist:
+    image: cdonovan2023/cragslist
+    ports: 
+      - "5000:5000"
